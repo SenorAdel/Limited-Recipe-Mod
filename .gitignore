@@ -1,0 +1,20 @@
+# Gradle and generated mod artifacts
+.gradle/
+build/
+out/
+
+# Local Minecraft runs, logs, and crash reports
+run/
+logs/
+crash-reports/
+*.log
+
+# IDE and OS files
+.idea/
+.vscode/
+.settings/
+*.iml
+.classpath
+.project
+.DS_Store
+Thumbs.db
